@@ -7718,7 +7718,7 @@
         minWidth: 1,
         height: "8.167%",
         click:
-          "this.openLink('https://www.linkedin.com/company/mella-creative-studio/', '_blank'); ",
+          "this.openLink('https://linkedin.com/company/mella-creative-studio/', '_blank'); ",
         paddingTop: 0,
         class: "Image",
         backgroundOpacity: 0,
